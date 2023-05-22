@@ -1,9 +1,7 @@
- <div id="header" align="center">
-
-<h1>👋 Hi</h1>
+<div id="header" align="center">
 
 <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e47tliqyo0wwcx5yr59aesi3d8ymmdpaw4jv7wfj1pd&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200"/>
-
+ 
     my ADHD and I do stuff
 
 <h3>👩🏻‍💻 tech I work with</h3>
