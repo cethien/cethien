@@ -25,10 +25,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original-wordmark.svg" width="50" />
     </div>
     <hr/>
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=cethien&show_icons=true&theme=synthwave"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cethien&layout=compact&theme=synthwave"/>
     </div>
+
 </div>
