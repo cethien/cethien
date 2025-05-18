@@ -4,7 +4,10 @@
 
 ###
 
-<p align="left">I do stuff</p>
+> “If it has circuits, it can run someone’s code.  
+> And sometimes, that code was written on a Friday.”
+
+— Me, staring into the abyss of another UEFI bug
 
 ###
 
